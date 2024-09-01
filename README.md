@@ -1,4 +1,11 @@
-![Uploading image.png…]()
+# My Project
+
+This is a description of my project.
+
+## Screenshot
+
+![Project Screenshot](https://github.com/Roverbk/My-Notes/raw/main/image.png)
+
 
 # Getting Started with Create React App
 
