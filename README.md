@@ -7,6 +7,9 @@ This is a description of my project.
 ![Project Screenshot](https://github.com/Roverbk/My-Notes/raw/main/image.png)
 
 
+![Project Screenshot](https://github.com/Roverbk/My-Notes/raw/main/note.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
